@@ -1,10 +1,10 @@
 ---
 layout: post
 title: FXM ISA Almost Complete
-tags: fxm
+tags: v3ga
 ---
 
-*This is part of the [FXM Project][fxm-overview]*
+*This is part of the [V3GA Project][v3ga-overview], formerly named FXM.*
 
 ## Who you gonna call?
 
@@ -177,6 +177,6 @@ system designs, once I start on those. I have some thoughts on the operating
 system and compiler, but I'll save those for their own posts after I do a bit
 more investigation.
 
-[fxm-overview]: /fxm-overview
+[v3ga-overview]: /v3ga-overview
 [ghost]: http://ghost.org
 [github-pages]: https://pages.github.com

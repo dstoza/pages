@@ -1,8 +1,10 @@
 ---
 layout: post
 title: The FXM Project
-tags: fxm
+tags: v3ga
 ---
+
+*Note: I have since changed the project name from FXM to V3GA.*
 
 Based on the entirely awesome [Homebrew CPU][homebrew] project, I decided that
 it would be fun to build my own (primarily) 74-series CPU and a computer system
